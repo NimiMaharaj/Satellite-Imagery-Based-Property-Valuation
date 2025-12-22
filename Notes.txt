@@ -1,0 +1,16 @@
+Releation
+
+price vs
+    bedroom: week lenear
+    bathroom: week linear
+    sqft living : good linear
+    floor: triangel, week
+    view: no Releation
+    condition: triangle week
+    grade: linear good
+    sqft above: linear good
+    lat triangle, week
+    long: triangle, week
+    swft living15 : good linear
+
+     
